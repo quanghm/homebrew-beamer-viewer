@@ -1,6 +1,6 @@
 cask "sidebeam" do
-  version "0.2.0"
-  sha256 "a6b1fd97d8463f4bfb98d55765987dba1d5007672718e31ab04b754113c1dc71"
+  version "0.2.1"
+  sha256 "6ddb237dcdafd45be2cfa5998d0cedbddf7f476b2d4f0c4d4f1d568db22581ee"
 
   url "https://github.com/quanghm/sidebeam/releases/download/v#{version}/SideBeam-#{version}-macos.zip"
   name "SideBeam"
